@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matej Hric
 ==================================================================================================================================
 
-C# WinForm Beginner | Beginning Flutter/Dart Enthusiast | Basics of React Redux and Web Development
+C# WinForm Beginner | Basics of React Redux and Web Development
 ---------------------------------------------------------------------------------------------------
 
 I build robust and sustainable software solutions aimed at improving the healthcare sector.
